@@ -1,4 +1,4 @@
-# Eureka discovery service
+# Eureka discovery service [![Build Status](https://travis-ci.com/jaarques-uoc/eureka-ws.svg?branch=master)](https://travis-ci.com/jaarques-uoc/eureka-ws)
 
 Command line tools:
 * Spring boot:
