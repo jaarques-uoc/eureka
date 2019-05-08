@@ -5,9 +5,9 @@ Command line tools:
     * build: `./gradlew build`
     * run: `./gradlew bootRun`
 * Docker:
-    * build: `docker build --tag=eureka .`
-    * run: `docker run -p 7100:8761 -t eureka`
-    * stop: `docker stop $(docker ps -q --filter ancestor=eureka)`
+    * build: `docker build --tag=eureka-ws .`
+    * run: `docker run -p 7100:8761 -t eureka-ws`
+    * stop: `docker stop $(docker ps -q --filter ancestor=eureka-ws)`
     * stop all containers: `docker stop $(docker ps -a -q)`
 
 * Urls:
